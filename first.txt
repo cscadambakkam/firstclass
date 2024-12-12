@@ -1,2 +1,4 @@
 This is an example
 for git class
+and github 
+it is easy to update
